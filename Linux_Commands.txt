@@ -1,0 +1,10 @@
+cd .. ==> Go back
+
+pwd ==> Present Working directory
+
+ls ==> List all files
+
+git clone (new directory)
+git add
+git commit
+git push
